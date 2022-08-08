@@ -24,7 +24,6 @@
 .h-image a{
     text-decoration: none;
     color: rgb(72, 94, 71);
-    
 }
 
 label.more-btn:hover, .h-image:hover{
@@ -102,7 +101,7 @@ li.more-btn {
 
 .menu-a{
     height: 80px;
-    width: 70px;
+    width: 80px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -111,13 +110,3 @@ li.more-btn {
     text-decoration: none;
     color: rgb(72, 94, 71);
 }
-
-
-
-
-
-
-
-
- 
- 
